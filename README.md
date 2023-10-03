@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/s6hdSACv7Dm3deCZKo/giphy.gif" width="200"/>
   
   <div id="badges">
-    <a href="https://www.linkedin.com/in/firhan-hardiansyah-2902bb1b5">
+    <a href="https://www.linkedin.com/in/firhan-hardiansyah-2902bb1b5" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/firhanhardiansyah?style=for-the-badge&logo=github">
