@@ -8,7 +8,7 @@
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/firhanhardiansyah?style=for-the-badge&logo=github">
     <img alt="GitHub followers" src="https://komarev.com/ghpvc/?username=firhanhardiansyah&style=for-the-badge&color=blue&logo=github">
   </div>
-  <h1>Hey, There</h1>
+  <h1>Hi, There</h1>
 </div>
 
 <h3 align="center">I'm Firhan Hardiansyah. I craft intuitive, full stack digital experiences across web and mobile.</h3>
