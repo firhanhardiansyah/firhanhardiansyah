@@ -13,7 +13,15 @@
 
 <h3 align="center">I'm Firhan Hardiansyah, Mobile developer from Indonesia.</h3>
 
-I am a mobile developer, living in Karawang, Indonesia. I mostly work with Flutter, but have also experience with Ionic, Kotlin, Java, and others.
+<div>
+    <h2>Software Engineer with more than 7 years of experience as a Full-Stack Developer.</h2>
+    <p>
+        Has expertise in mobile, web, front-end, and back-end application development. Accustomed to working end-to-end in the
+        software development cycle and experienced in using various modern technologies and frameworks. Committed to
+        continuing to follow technological developments and presenting optimal digital solutions according to user needs and
+        business goals.
+    </p>
+</div>
 
 <h3>Tech Stack</h3>
 <p>
