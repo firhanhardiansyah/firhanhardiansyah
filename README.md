@@ -11,7 +11,7 @@
   <h1>Hey, There</h1>
 </div>
 
-<h3 align="center">I'm Firhan Hardiansyah, Mobile developer from Indonesia.</h3>
+<h3 align="center">I'm Firhan Hardiansyah. I craft intuitive, full stack digital experiences across web and mobile.</h3>
 
 <div>
     <h2>Software Engineer with more than 7 years of experience as a Full-Stack Developer.</h2>
