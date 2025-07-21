@@ -11,9 +11,9 @@
   <h1>Hi, There</h1>
 </div>
 
-<h1>I'm Firhan Hardiansyah. I craft intuitive, full stack digital experiences across web and mobile.</h3>
 
 <div>
+    <h2>I'm Firhan Hardiansyah. I craft intuitive, full stack digital experiences across web and mobile.</h2>
     <h3>Software Engineer with more than 7 years of experience as a Full-Stack Developer.</h2>
     <p>
         Has expertise in mobile, web, front-end, and back-end application development. Accustomed to working end-to-end in the
